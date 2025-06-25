@@ -53,7 +53,7 @@ UNET_MODELS=(
 )
 
 TEXT_ENCODERS=(
-    "https://huggingface.co/QuantStack/Wan2.1_14B_VACE-GGUF/resolve/main/Wan2.1_14B_VACE-Q8_0.gguf"
+    "https://huggingface.co/city96/umt5-xxl-encoder-gguf/resolve/main/umt5-xxl-encoder-Q8_0.gguf"
 )
 
 LORA_MODELS=(
