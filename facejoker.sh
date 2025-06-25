@@ -32,12 +32,11 @@ NODES=(
 
 
 WORKFLOWS=(
-    "https://raw.githubusercontent.com/vast-ai/base-image/refs/heads/comfyui-ltxvideo-provisioning/derivatives/pytorch/derivatives/comfyui/workflows/ltx-video-i2v-simple.json"
-    "https://raw.githubusercontent.com/vast-ai/base-image/refs/heads/comfyui-ltxvideo-provisioning/derivatives/pytorch/derivatives/comfyui/workflows/ltx-video-t2v-simple.json"
+    "https://raw.githubusercontent.com/jktomwix/facejoker/refs/heads/main/face_joker_flow.json"
 )
 
 INPUT=(
-    "https://comfyanonymous.github.io/ComfyUI_examples/ltxv/island.jpg"
+    ""
 )
 
 CHECKPOINT_MODELS=(
