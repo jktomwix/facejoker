@@ -28,6 +28,8 @@ NODES=(
     "https://github.com/calcuis/gguf"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/kael558/ComfyUI-GGUF-FantasyTalking"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
 )
 
 
