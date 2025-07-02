@@ -30,6 +30,10 @@ NODES=(
     "https://github.com/kael558/ComfyUI-GGUF-FantasyTalking"
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
+    "https://github.com/crystian/ComfyUI-Crystools"
+    "https://github.com/FizzleDorf/ComfyUI_FizzNodes"
+    "https://github.com/pollockjj/ComfyUI-MultiGPU"
+    "https://github.com/M1kep/ComfyLiterals"
 )
 
 
