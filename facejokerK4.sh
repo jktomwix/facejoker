@@ -16,20 +16,22 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/Lightricks/ComfyUI-LTXVideo"
     "https://github.com/kijai/ComfyUI-KJNodes"
     "https://github.com/aria1th/ComfyUI-LogicUtils"
-    "https://github.com/Mattabyte/ComfyUI-LTXVideo-Registry_Mattabyte"
-    "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
     "https://github.com/Fannovel16/comfyui_controlnet_aux"
     "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
-    "https://github.com/city96/ComfyUI-GGUF"
-    "https://github.com/kijai/ComfyUI-Florence2"
     "https://github.com/calcuis/gguf"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/kael558/ComfyUI-GGUF-FantasyTalking"
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
+    "https://github.com/chflame163/ComfyUI_LayerStyle"
+    "https://github.com/yolain/ComfyUI-Easy-Use"
+    "https://github.com/yuvraj108c/ComfyUI-Upscaler-Tensorrt"
+    "https://github.com/Chaoses-Ib/ComfyUI_Ib_CustomNodes"
+    "https://github.com/kijai/ComfyUI-WanVideoWrapper"
+    "https://github.com/ShmuelRonen/ComfyUI-VideoUpscale_WithModel"
+    
 )
 
 
@@ -45,7 +47,7 @@ CHECKPOINT_MODELS=(
 
 )
 DIFFUSION_MODELS=(
-    "https://huggingface.co/QuantStack/Wan2.1_14B_VACE-GGUF/resolve/main/Wan2.1_14B_VACE-Q4_K_M.gguf"
+    "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/diffusion_models/wan2.1_vace_14B_fp16.safetensors"
 )
 CLIP_MODELS=(
     ""
@@ -55,7 +57,7 @@ UNET_MODELS=(
 )
 
 TEXT_ENCODERS=(
-    "https://huggingface.co/city96/umt5-xxl-encoder-gguf/resolve/main/umt5-xxl-encoder-Q4_K_M.gguf"
+    "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp16.safetensors"
 )
 
 LORA_MODELS=(
