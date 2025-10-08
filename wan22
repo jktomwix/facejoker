@@ -100,7 +100,7 @@ function provisioning_start() {
         "${COMFYUI_DIR}/models/controlnet" \
         "${CONTROLNET_MODELS[@]}"
     provisioning_get_files \
-        "${COMFYUI_DIR}/models/clip" \
+        "${COMFYUI_DIR}/models/clip_vision" \
         "${CLIP_MODELS[@]}"
     provisioning_get_files \
         "${COMFYUI_DIR}/models/vae" \
