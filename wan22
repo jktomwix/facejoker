@@ -40,7 +40,7 @@ DIFFUSION_MODELS=(
     "https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/Wan22Animate/Wan2_2-Animate-14B_fp8_scaled_e4m3fn_KJ_v2.safetensors"
 )
 CLIP_MODELS=(
-    "https://huggingface.co/ratoenien/clip_vision_h/blob/main/clip_vision_h.safetensors"
+    "https://huggingface.co/ratoenien/clip_vision_h/resolve/main/clip_vision_h.safetensors"
 )
 
 UNET_MODELS=(
